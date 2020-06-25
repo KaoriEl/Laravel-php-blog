@@ -12,5 +12,5 @@
     <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <p>
-    Работа над блогом не завершена, версия фреймворка 5.9
+    Работа над блогом не завершена, версия фреймворка 5.5
 </p>
